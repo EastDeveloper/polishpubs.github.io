@@ -21,7 +21,7 @@
 https://discord.gg/mhe9w3ZewK
 ```
 
-## Run tests
+## Run testss
 
 ```sh
 https://discord.gg/mhe9w3ZewK
