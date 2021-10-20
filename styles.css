@@ -4,6 +4,7 @@ h1 {
     font-family: Verdana;
 }
 
-p {
-    border: 2px solid gray;
-}
+div {
+    background-color: blue;
+    color: white;
+  }
