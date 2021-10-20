@@ -10,7 +10,7 @@
 
 > 1999 Retro Website
 
-### 🏠 [Homepage](npx readme-md-generator -y)
+### 🏠 [Homepage]
 
 ## Usage
 
@@ -27,11 +27,4 @@ https://discord.gg/mhe9w3ZewK
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://discord.gg/mhe9w3ZewK). You can also take a look at the [contributing guide](https://discord.gg/mhe9w3ZewK).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://discord.gg/mhe9w3ZewK). You can also take a look at the [contributing guide](https://discord.gg/mhe9w3ZewK)
