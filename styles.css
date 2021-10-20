@@ -1,9 +1,8 @@
-body {
-    background-color: lightcyan;
-    color: gray;
-}
-
 h1 {
     size: 2.5rem;
     color: black;
+}
+
+p {
+    border: 2px solid powderblue;
 }
