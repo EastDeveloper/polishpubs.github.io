@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> 1999 Retro Website
+> Since 1999 Polish Pubs
 
 ### 🏠 [Homepage]
 
