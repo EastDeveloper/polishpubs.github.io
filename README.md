@@ -37,4 +37,4 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## Documentation
 
-Documentation will not be provided at this moment in time, although you may be given a simple taster of what this will turn out to be!, disregarding the fact that [only], Developer who is working on this is me currently.
+Documentation will not be provided at this moment in time, although you may be given a simple taster of what this will turn out to be!, disregarding the fact that **only**, Developer who is working on this is me currently.
