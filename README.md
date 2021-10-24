@@ -12,7 +12,7 @@
 
 ### 🏠 [Homepage]
 
-## Usage
+## PolishPubs' Discord Server.
 
 ```sh
 https://discord.gg/mhe9w3ZewK
