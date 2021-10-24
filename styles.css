@@ -1,13 +1,12 @@
-h1 {
-    size: 2.5rem;
-    color: black;
-    font-family: Verdana;
-    color: black;
-}
-
-div {
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    size: 3.5rem;
-    color: black;
+.sidenav {
+    height: 100;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: black;
+    overflow-x: hidden;
+    transition: 0.4s;
+    padding-top: 70px;
 }
