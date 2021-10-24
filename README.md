@@ -25,6 +25,11 @@ https://discord.gg/mhe9w3ZewK
 * Twitter: [@KolyaKThorne](https://twitter.com/KolyaKThorne)
 * Github: [@EastDeveloper](https://github.com/EastDeveloper)
 
+👤 **Jachar7543**
+
+* Twitter: [@TempHolder](...)
+* Github [@TempHolder](...)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://discord.gg/mhe9w3ZewK). You can also take a look at the [contributing guide](https://discord.gg/mhe9w3ZewK)
