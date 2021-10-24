@@ -30,6 +30,11 @@ https://discord.gg/mhe9w3ZewK
 * Twitter: [@TempHolder](...)
 * Github [@TempHolder](...)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://discord.gg/mhe9w3ZewK). You can also take a look at the [contributing guide](https://discord.gg/mhe9w3ZewK)
+
+
+## Documentation
+
+Documentation will not be provided at this moment in time, although you may be given a simple taster of what this will turn out to be!, disregarding the fact that [only], Developer who is working on this is me currently.
